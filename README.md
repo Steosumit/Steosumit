@@ -13,26 +13,59 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, Sumit Gupta here
-🔭He is currently working on AI agentic systems and automation, web security, forensics<br>👯He is looking to collaborate on anything that involves connecting complex dots<br>🤝He is looking for help with exploring AI security, automation gaps, risk management and compliance<br>🌱He is currently learning AI and Web Security, forensics, blue team tools<br>💬Ask me about implementing AI/LLM workflow integration<br>⚡3 Fun fact: <br>- He is a VATSIM pilot—real life flight sim<br>- Been journaling for 15+ years now -> book publishing soon<br>- On weekends, you can see him in CTFs
+# 👋 Sumit Gupta
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/steosumit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@steosumit) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sumit-Gupta-2900) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:external.steosumit@gmail.com) 
+🔭He is currently working on AI agentic systems, automation, and web security<br><br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Steosumit&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Steosumit&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Steosumit&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+👯He is looking to collaborate on anything that involves connecting complex dots<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Steosumit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🤝He is looking for help with exploring AI security, automation gaps, risk management and compliance<br><br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Steosumit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🌱He is currently learning AI and Web Security, forensics, blue team tools<br><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Steosumit&icon=0&color=3)](https://visitcount.itsvg.in)
+💬Ask him about implementing AI/LLM workflow integrations<br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚡3 Fun fact:<br>
+- He is a VATSIM pilot—real life flight sim network<br>
+- Been journaling for 15+ years now -> book publishing soon<br>
+- On weekends, he's in CTFs, writing medium blogs or chilling<br>
+
+### 🗯️ Socials
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@steosumit)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steosumit)
+
+
+### 🔠 Programming Languages he has worked with
+
+![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%20%2F%20C%2B%2B-0574fc?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+
+## 💻 Clouds with experiences
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## 📽️ Projects
+
+- open-multi-agent: A2A agentic system built from scratch with memory management, orchestration, local agnostic mcp client and mcp server integration, security controls(tool white listing and argument sanitization) and telemetry
+
+- GenericNoobAI: multi-modal agent with custom tool integration for web search, audio analysis, read/write, performing 30% on GAIA benchmark test
+
+- llm-compare-hub: flexible prompt playground for prompt engineering, drag drop prompt patterns, change prompt sequence, evaluate response matrices
+
+- loc-based-attendance: geolocation validation attendance app for college attendance tracking
+
+## Experience
+
+- Development Intern: designed and refactored Admin dashboard components, integrated served backend data with frontend components, created vehicle, bookings, users, forms and monitoring pages
+
+- Data Analyst Intern: exploratory data analysis and preprocessing of Gujarat gov. truck supply chain data(50GB), developed anomaly detection python notebooks, identified 100+ anomalous transactions using graph modeling of weight shifts
+
+- Genomic Research Tech Lead: preprocessed 250GB+ genomic data(1000 Genome Project, T2T) to extract Y Chromosomes; developed notebooks for handling VCF to CSV conversion, clustering SNPs, genomic matrix calculation and feature selection
+
+## 🏅Certificates
+- Oracle Certified 2025 GenAI Professional
+- Oracle Certified 2025 Data Science Professional
+- ISC2 Certified in Cybersecurity(Passed)

@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # 👋 Sumit Gupta
 
+He got a website: [steosumit.tech ](https://steosumit.tech/)
+
 He is :
 - 🔭 currently working on AI agentic systems, automation, and web security<br><br>
 - 👯 looking to collaborate on anything that involves connecting complex dots<br><br>
@@ -28,6 +30,7 @@ He is :
 - On weekends, he's in CTFs, writing medium blogs or chilling<br>
 
 ### 🗯️ Socials
+[![Resume](https://img.shields.io/badge/Resume-latest-green?style=for-the-badge)](https://github.com/Steosumit/Steosumit/blob/main/Resume.pdf)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@steosumit)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steosumit)
 
